@@ -35,4 +35,4 @@ its mustn't be separates js bundles.
 those components must be group together.
 
 
-![](https://github.com/mafei-dev/repo-imgs/blob/master/vue-js-lazy-loading-routes-group-with-webpack-example/ScreenShot_20200122233949.png)
+![](https://raw.githubusercontent.com/mafei-dev/repo-imgs/master/vue-js-lazy-loading-routes-group-with-webpack-example/ScreenShot_20200122233949.png)
