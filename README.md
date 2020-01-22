@@ -1,4 +1,4 @@
-# lazy-loading
+# vue-js lazy loading routes group with webpack example
 
 ## Project setup
 ```
